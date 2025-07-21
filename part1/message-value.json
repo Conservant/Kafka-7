@@ -1,0 +1,18 @@
+{
+  "type": "record",
+  "name": "super_topic_value",
+  "fields": [
+    {
+      "name": "message",
+      "type": "string"
+    },
+    {
+      "name": "messageFrom",
+      "type": "string"
+    },
+    {
+      "name": "messageTo",
+      "type": "string"
+    }
+  ]
+}

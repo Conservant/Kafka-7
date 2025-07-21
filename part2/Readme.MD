@@ -19,7 +19,7 @@
 
 ../../bin/kafka-console-consumer --bootstrap-server localhost:9092 --topic messages --from-beginning
 
-![img_2.png](img_2.png)
+![img_4.png](img_4.png)
 
 ![img_3.png](img_3.png)
 
